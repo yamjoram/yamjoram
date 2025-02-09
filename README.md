@@ -11,6 +11,8 @@ Welcome to my GitHub! I am passionate about turning data into actionable insight
 ## 🧑‍🎓 Education
 - **B.Tech in Biotechnology** - NIT Arunachal Pradesh (2020) 🎓
 - **M.Tech in Biotechnology** - K.S.Rangasamy College of Technology (2022) 🧪
+- **PG-Diploma in Data Science** - Indraprastha Institute of Information Technology - Delhi (2025) 🧪
+
 
 ---
 
@@ -37,11 +39,6 @@ Welcome to my GitHub! I am passionate about turning data into actionable insight
 ---
 
 ## 💼 Experience
-- **DBT-APSCS&T Centre for Bioresources and Sustainable Development** | Workshop 📊
-  - Data analysis of Japonica rice using Molecular Simulation
-
-- **NIELIT** | Guest Faculty in Bio-Informatics 🧬
-  - Taught bio-informatics to B.Sc students
 
 - **[24]7.AI** | Digital Interaction Advisor 🗣️
   - Assisted customers with billing and orders
