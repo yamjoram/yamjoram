@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=yamjoram&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
+
 # 👋 Hello, I'm Joram Yam
 
 ### 🌱 Aspiring Data Specialist | SQL | Python | Tableau | Data Analysis
