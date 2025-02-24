@@ -17,7 +17,8 @@ Welcome to my GitHub! I am passionate about turning data into actionable insight
 ---
 
 ## 💡 Skills
-- **Languages:** SQL, Python
+- **Languages:** SQL, Python, R
+- **Core:** Machine Learning (Supervised & Unsupervised Learning, Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning)  
 - **Frameworks:** Pandas, Numpy, Matplotlib, Seaborn
 - **Tools:** Tableau, Excel, MySQL, PowerPoint
 
