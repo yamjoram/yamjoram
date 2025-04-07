@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Joram Yam
 
-### 🌱 Aspiring Data Specialist | SQL | Python | Tableau | Data Analysis
+### 🌱 Data Specialist | SQL | Python | Tableau | Data Analysis
 
 Welcome to my GitHub! I am passionate about turning data into actionable insights. With hands-on experience in data querying, analysis, and visualization, I am continuously expanding my skills to solve complex problems.
 
