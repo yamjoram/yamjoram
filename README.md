@@ -37,12 +37,7 @@ Welcome to my GitHub! I am passionate about turning data into actionable insight
   - Analyzed restaurant trends in Bangalore
   - Explored cuisine preferences and restaurant performance
 
----
 
-## 💼 Experience
-
-- **[24]7.AI** | Digital Interaction Advisor 🗣️
-  - Assisted customers with billing and orders
 
 ---
 
